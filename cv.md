@@ -1,8 +1,10 @@
+![userpic](https://i.ibb.co/ggdYtzZ/pic.png)
+
 # Nikolay Gurskiy
 ### github: @ngursk, discord: koekto#7780
 
 Currently working as a tech support,
-looking forward to learn new set of skills.
+looking forward to learn a new set of skills.
 
 Basic SQL and VBS, basic system administratinon skills.
 
@@ -19,5 +21,5 @@ Vault 13 welcomes everyone!
 
 My project:
 
-Meme Slider
-https://ngursk.github.io/cssMemSlider/cssMemSlider/index.html
+* Meme Slider
+* https://ngursk.github.io/cssMemSlider/cssMemSlider/index.html
