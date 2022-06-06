@@ -21,5 +21,7 @@ Vault 13 welcomes everyone!
 
 My project:
 
-* Meme Slider
-* https://ngursk.github.io/cssMemSlider/cssMemSlider/index.html
+1. Meme Slider
+ >> https://ngursk.github.io/cssMemSlider/cssMemSlider/index.html
+2. CV.md
+ >> https://ngursk.github.io/rsschool-cv/cv
