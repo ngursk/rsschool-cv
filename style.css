@@ -1,0 +1,21 @@
+code {
+    font-family: Consolas,"courier new";
+    color: crimson;
+    background-color: lightgray;
+    padding: 2px;
+    font-size: 105%;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 500px; /* or inline-flex */
+    margin: 0 auto;
+  }
+
+  .ul-inline {
+    display:flex;  
+    list-style:none;
+    width: 200px;
+    justify-content: space-between;
+  }
