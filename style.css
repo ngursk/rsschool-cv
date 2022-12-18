@@ -30,7 +30,8 @@ ul {
 }
 
 li {
-    float: left;
+    float: left;    
+    color: white;
 }
 
 li a {
