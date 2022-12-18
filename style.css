@@ -1,0 +1,136 @@
+body {
+    position: relative;
+    background-color: grey;
+}
+
+h1 {
+    font-size:xx-large;
+}
+h2 {
+    font-size:xx-large;
+}
+
+.wrapper {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 900px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;    
+    color: white;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+.nav {
+    display: flex;
+    position: relative;
+    /* border: 1px solid green; */
+}
+}
+
+.nav a {
+    display: block;
+    width: 100%;
+    padding: 0 0 0 25px;
+    box-sizing: border-box;
+}
+
+.nav a {
+    display: block;
+    width: 100%;
+    padding: 0 0 0 25px;
+    box-sizing: border-box;
+}
+
+.content {
+    align-items: center;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    width: 900px;
+    height: 600px;
+    /* border: 1px solid blue; */
+    flex-wrap: wrap;
+}
+
+.block {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    background-color: darkgrey;
+    width: 290px;
+    height: 290px;
+    /* border:1px solid orange; */
+    margin: auto;
+    align-content: space-between;
+}
+
+.block-header {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 280px;
+    height: 100px;
+    /* border:1px solid yellowgreen; */
+    margin: auto;
+}
+
+
+.block-text {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 220px;
+    height: 250px;
+    /* border:1px solid magenta; */
+    margin: auto;
+    left: 30px;
+    justify-content:center;
+
+}
+
+.footer {
+    display: flex;
+    
+    position: relative;
+    width: 100%;
+    flex-direction:row;
+    justify-content: space-around;
+    /* border:1px solid greenyellow; */
+}
+
+.footer-cell {
+    display: flex;
+    
+    position: relative;
+    height: 75px;
+    width: 120px;
+    /* border: 1px solid red; */
+    align-items: center;
+    justify-content: center;
+}
